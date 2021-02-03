@@ -45,7 +45,8 @@ import ReactDom from 'react-dom'
 //import PureComponent from './PureComponent'
 //import componentWillUnmount from './componentWillUnmount'
 //import comunicacionMetodosInstancia from './comunicacionMetodosInstancia'
-import App from './comunicacionEventBubbling'
+//import comunicacionEventBubbling from './comunicacionEventBubbling'
+import App from './comunicacionEntreHermanos'
 
 
 ReactDom.render(<App/>,document.getElementById('root'))
