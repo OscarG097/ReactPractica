@@ -39,6 +39,13 @@ import ReactDom from 'react-dom'
 //import ComponentDidMount from './ComponentDidMount'
 //import ComponentDidUpdate from './ComponentDidUpdate'
 //import getSnapshotBeforeUpdate-1 from './getSnapshotBeforeUpdate-1'
-import App from './getSnapshotBeforeUpdate-2'
+//import getSnapshotBeforeUpdate-2 from './getSnapshotBeforeUpdate-2'
+//import GetDerivedStateFromProps from './GetDerivedStateFromProps'
+//import shouldComponentUpdate from './shouldComponentUpdate'
+//import PureComponent from './PureComponent'
+//import componentWillUnmount from './componentWillUnmount'
+//import comunicacionMetodosInstancia from './comunicacionMetodosInstancia'
+import App from './comunicacionEventBubbling'
+
 
 ReactDom.render(<App/>,document.getElementById('root'))
