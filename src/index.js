@@ -46,7 +46,21 @@ import ReactDom from 'react-dom'
 //import componentWillUnmount from './componentWillUnmount'
 //import comunicacionMetodosInstancia from './comunicacionMetodosInstancia'
 //import comunicacionEventBubbling from './comunicacionEventBubbling'
-import App from './comunicacionEntreHermanos'
+//import comunicacionEntreHermanos from './comunicacionEntreHermanos'
+//import observerPattern from './observerPattern'
+//import variablesGlobales from './variablesGlobales'
+//import comunicacionApiContext from './comunicacionApiContext'
+//import comunicacionHijoPadre from './comunicacionHijoPadre'
+//import patronRenderProp from './patronRenderProp'
+//import App from './comunicacionPadreHijoHOC'
+//import HOCwhitSizes from './HOCwhitSizes'
+//import hookUseState from './hookUseState'
+//import hookBooleanos from './hookBooleanos'
+//import hookUseStateObjetos from './hookUseStateObjetos'
+//import hookUseStateMultiplesEstados from './hookUseStateMultiplesEstados'
+import App from './hookUseEfect'
+
+
 
 
 ReactDom.render(<App/>,document.getElementById('root'))
